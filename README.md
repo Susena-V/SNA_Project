@@ -2,6 +2,8 @@
 
 **Team Networkx**
 
+All the codes used in this project are here
+
 ## Round 1 - Notebooks
 
 - Round-1_SNA_Facebook_Ego.ipynb
