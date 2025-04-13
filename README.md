@@ -1,5 +1,6 @@
 # SNA_Project
-All the notebooks and codes are stored here
+
+**Team Networkx**
 
 ## Round 1 - Notebooks
 
@@ -10,3 +11,5 @@ All the notebooks and codes are stored here
 - Round-1_SNA_Math_Overflow.ipynb
 
   This notebook contains all the codes for Round 1 for MathOverflow Network
+
+## Round 2 - Notebooks
